@@ -13,7 +13,7 @@ Download IMDB Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dat
 
 Download Glove Emebedding :  http://nlp.stanford.edu/data/glove.6B.zip
 
-Extact and glove zip and use glove.6B.100d.txt
+Extact  glove.6B.zip and move glove.6B.100d.txt to working directory
 
 ## Model Architecture
 The model architecture consists of the following layers:
