@@ -10,7 +10,9 @@ Sentiment analysis is a common Natural Language Processing (NLP) task where the 
 The IMDb dataset is a well-known dataset for binary sentiment classification. It contains 50,000 movie reviews labeled as either positive or negative. The dataset is split evenly with 25,000 reviews for training and 25,000 for testing.
 
 Download IMDB Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 Download Glove Emebedding :  http://nlp.stanford.edu/data/glove.6B.zip
+
 Extact and glove zip and use glove.6B.100d.txt
 
 ## Model Architecture
